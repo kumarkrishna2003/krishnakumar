@@ -20,3 +20,4 @@ fileptr.close()
 ```
 > link linking
 1. [shinto](https://github.com/2003SHINTO)
+![electron](
