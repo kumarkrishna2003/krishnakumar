@@ -20,4 +20,6 @@ fileptr.close()
 ```
 > link linking
 1. [shinto](https://github.com/2003SHINTO)
+>linking image
+-create a file
 ![alt electron](https://github.com/kumarkrishna2003/krishnakumar/blob/main/img/Untitled.jpeg)
